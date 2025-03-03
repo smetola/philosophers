@@ -1,5 +1,13 @@
 # philosophers
 
+<h1 align="center">
+  🚀 ¡Proyecto completado! 🚀
+</h1>
+
+<p align="center">
+  Este proyecto está finalizado, pero pronto lo actualizaré en GitHub cuando esté en el campus.
+</p>
+
 **philosophers** es un proyecto de simulación que pone a prueba los fundamentos de la programación concurrente, enfocándose en multithreading, multiprocessing y sincronización mediante mutexes.
 
 <p align="center">
