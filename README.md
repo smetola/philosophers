@@ -3,9 +3,11 @@
 **philosophers** es un proyecto de simulación que pone a prueba los fundamentos de la programación concurrente, enfocándose en multithreading, multiprocessing y sincronización mediante mutexes.
 
 <p align="center">
-  <img src="[https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/55786af8-3f9c-484f-82b6-c40db345ef37/d1nw7fu-3fe328ae-5ef4-4686-bcba-6a3ee4765aa4.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi81NTc4NmFmOC0zZjljLTQ4NGYtODJiNi1jNDBkYjM0NWVmMzcvZDFudzdmdS0zZmUzMjhhZS01ZWY0LTQ2ODYtYmNiYS02YTNlZTQ3NjVhYTQuanBnIn1dXX0.gwE9qeiB3P_4xRIdc44feNWgnI6Ma9yWfIBaY79lGvc](https://files.oaiusercontent.com/file-M15qm9QfbWooK7syZzkHER?se=2025-03-03T10%3A53%3A18Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0dccbff9-60d3-4206-be3e-d36e7fedad52.webp&sig=HKT7Jgfuv6LC/0MBN9NgknohxDyrx42GfDe19Z8jNkk%3D)" alt="Fractal de Mandelbrot" width="75%">
+  <img src="[https://files.oaiusercontent.com/file-M15qm9QfbWooK7syZzkHER?se=2025-03-03T10%3A53%3A18Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0dccbff9-60d3-4206-be3e-d36e7fedad52.webp&sig=HKT7Jgfuv6LC/0MBN9NgknohxDyrx42GfDe19Z8jNkk%3D]" alt="Fractal de Mandelbrot" width="75%">
 </p>
-![image](https://github.com/user-attachments/assets/b460d07c-adbb-4d55-838f-c52495c95dcd)
+<p align="center">
+  <img src="[[https://files.oaiusercontent.com/file-M15qm9QfbWooK7syZzkHER?se=2025-03-03T10%3A53%3A18Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0dccbff9-60d3-4206-be3e-d36e7fedad52.webp&sig=HKT7Jgfuv6LC/0MBN9NgknohxDyrx42GfDe19Z8jNkk%3D](https://github.com/user-attachments/assets/b460d07c-adbb-4d55-838f-c52495c95dcd)]" alt="Fractal de Mandelbrot" width="75%">
+</p>
 
 ## ¿De qué se trata?
 
