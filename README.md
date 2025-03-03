@@ -3,7 +3,7 @@
 **philosophers** es un proyecto de simulación que pone a prueba los fundamentos de la programación concurrente, enfocándose en multithreading, multiprocessing y sincronización mediante mutexes.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b460d07c-adbb-4d55-838f-c52495c95dcd" alt="The dinning philosophers" width="50%">
+  <img src="https://github.com/user-attachments/assets/b460d07c-adbb-4d55-838f-c52495c95dcd" alt="The dinning philosophers" width="30%">
 </p>
 
 ## ¿De qué se trata?
