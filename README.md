@@ -3,10 +3,10 @@
 **philosophers** es un proyecto de simulación que pone a prueba los fundamentos de la programación concurrente, enfocándose en multithreading, multiprocessing y sincronización mediante mutexes.
 
 <p align="center">
-  <img src="[https://files.oaiusercontent.com/file-M15qm9QfbWooK7syZzkHER?se=2025-03-03T10%3A53%3A18Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0dccbff9-60d3-4206-be3e-d36e7fedad52.webp&sig=HKT7Jgfuv6LC/0MBN9NgknohxDyrx42GfDe19Z8jNkk%3D]" alt="Fractal de Mandelbrot" width="75%">
+  <img src="https://files.oaiusercontent.com/file-M15qm9QfbWooK7syZzkHER?se=2025-03-03T10%3A53%3A18Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0dccbff9-60d3-4206-be3e-d36e7fedad52.webp&sig=HKT7Jgfuv6LC/0MBN9NgknohxDyrx42GfDe19Z8jNkk%3D" alt="Fractal de Mandelbrot" width="75%">
 </p>
 <p align="center">
-  <img src="[https://files.oaiusercontent.com/file-M15qm9QfbWooK7syZzkHER?se=2025-03-03T10%3A53%3A18Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0dccbff9-60d3-4206-be3e-d36e7fedad52.webp&sig=HKT7Jgfuv6LC/0MBN9NgknohxDyrx42GfDe19Z8jNkk%3D](https://github.com/user-attachments/assets/b460d07c-adbb-4d55-838f-c52495c95dcd)]" alt="Fractal de Mandelbrot" width="75%">
+  <img src="https://github.com/user-attachments/assets/b460d07c-adbb-4d55-838f-c52495c95dcd" alt="Fractal de Mandelbrot" width="75%">
 </p>
 
 ## ¿De qué se trata?
